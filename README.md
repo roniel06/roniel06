@@ -25,7 +25,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Azure Devops</center></b></span> 
-<img height=60px src="https://www.forecast.app/hubfs/New%20Website%20/integrations-logos/Azure%20DevOps.png"> 
+<img height=60px src="https://cdn.svgporn.com/logos/azure-icon.svg"> 
 </td>
 
 <td align="center" width="20%">
