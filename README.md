@@ -69,6 +69,11 @@
 </td>
 </tr>
 
+<td align="center" width="20%">
+<span><b><center>SSIS Packages</center></b></span> 
+<img height=65px src="https://static.javatpoint.com/tutorial/ssis/images/ssis-tutorial.jpg"> 
+</td>
+</tr>
 
 </tbody>
 </table>
