@@ -1,16 +1,16 @@
-<h1 align="center"> Heyy Folks!!!! 😎😎😎👋 </h1>
+<h1 align="center"> Hello Folks!!!! 😎😎😎👋 </h1>
 
 
-* I am [Roniel Polanco](https://www.linkedin.com/in/ronielpolanco/) :blush:	 . Now i work for the government of the Dominican Republic at the IT Department of the Immigration Office. 
+* I am [Roniel Polanco](https://www.linkedin.com/in/ronielpolanco/) :blush:	 . Im a Sr. Software Engineer with 6+ years of experience working in the industry.
 
-* I've been at the Immigration office for about 2 years now, as a team leader of a division developing strong software for border control and public services. 
+* I worked as a contractor for multiple companies in the US.
 
-* I am a dotNet developer focused on backend.
+## Industries I worked on:
 
-* I have made multiple private projects including Government. 👾
-
-* I am currently learning python because im very interested in Machine Learning and some stuff of that area!! 
-
+* Law Firms.
+* Hospitality.
+* Immigration.
+* Logistics Process Automation.
 
 ## Dev Stack :computer:
 
@@ -18,6 +18,10 @@
 <table>
 <tbody>
  <tr>
+  <td align="center" width="20%">
+<span><b><center>C#</center></b></span> 
+<img height=65px src="https://skillicons.dev/icons?i=cs"> 
+</td>
 <td align="center" width="20%">
 <span><b><center>Net Core</center></b></span> 
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png"> 
@@ -25,12 +29,12 @@
 
 <td align="center" width="20%">
 <span><b><center>Azure Devops</center></b></span> 
-<img height=60px src="https://cdn.svgporn.com/logos/azure-icon.svg"> 
+<img height=60px src="https://skillicons.dev/icons?i=azure"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>SQL Server</center></b></span> 
-<img height=60px src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png"> 
+<img height=60px src="https://skillicons.dev/icons?i=sqlserver"> 
 </td>
 </tr>
 
@@ -54,18 +58,18 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>jQuery</center></b></span> 
-<img height=65px src="https://www.ticarte.com/sites/su/styles/max/public/users/290/teaser/687474703a2f2f707265636973696f6e2d736f6674776172652e636f6d2f77702d636f6e74656e742f75706c6f6164732f32.gif?itok=b6Gz-evh"> 
+<img height=65px src="https://skillicons.dev/icons?i=jquery"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>ReactJs</center></b></span> 
-<img height=65px src="https://miro.medium.com/max/1838/0*EuQAiHI1iZEbC9yI.png"> 
+<img height=65px src="https://skillicons.dev/icons?i=react"> 
 </td>
 
 
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
+<img height=65px src="https://skillicons.dev/icons?i=python"> 
 </td>
 </tr>
 
@@ -73,6 +77,13 @@
 <span><b><center>SSIS Packages</center></b></span> 
 <img height=65px src="https://static.javatpoint.com/tutorial/ssis/images/ssis-tutorial.jpg"> 
 </td>
+
+<td align="center" width="20%">
+<span><b><center>VueJs</center></b></span> 
+<img height=65px src="https://skillicons.dev/icons?i=vue"> 
+</td>
+
+
 </tr>
 
 </tbody>
